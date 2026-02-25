@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/starter-fullstack-web-app-template-229472-229488/frontend_nextjs"
+}
